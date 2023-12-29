@@ -37,16 +37,6 @@ The machine learning code and results are stored in the 'A' and 'B' folders. The
 ## How to Run
 
 1. Please place `pneumoniamnist.npz` and `pathmnist.npz` in the Datasets folder, which can be downloaded from https://medmnist.com/
-2. Ensure `Python 3.11.6` is installed along with the following packages:
-   - `scikit-learn==1.3.2`
-   - `seaborn==0.13.0`
-   - `tensorflow==2.15.0`
-   - `numpy==1.26.2`
-   - `matplotlib==3.8.2`
-3. Run `main.py` to reproduce the results. By default, `A_py.py` and `B_py_pretrain.py` are executed. Uncomment related code in `main.py` for full training.
-4. Also, you can run Jupyter Notebook files directly to view the code and generate results.
-
-1. Please place `pneumoniamnist.npz` and `pathmnist.npz` in the Datasets folder, which can be downloaded from https://medmnist.com/
 2. Ensure `Python 3.11.6` is installed with the following libraries:
    - `scikit-learn==1.3.2`
    - `seaborn==0.13.0`
