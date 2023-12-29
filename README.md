@@ -4,7 +4,8 @@
 The project is to use machine learning methods to categorize medical images. There are 2 datasets, PneumoniaMNIST and PathMNIST, that were used for training/validation/testing.
 
 The project is divided into 2 tasks:
- Task A: Binary classification --Random Forest 
+ Task A: Binary classification --Random Forest  
+
  Task B: Multi-class classification --Conventional Neural Network(CNN)
 
 The machine learning code and results are stored in folders 'A' and 'B' of the directory.The code was programmed by jupyter notebook. To reproduce the results, copies of the .py files were created with the same results as the .ipynb file results. For Task A, it needs to take about 5 minutes to reproduce.For Task B, the full training model takes about 30 minutes to run.At the same time, the pre-trained model is saved for direct use. However, when run the pre-trained model, the image of model accuracy and loss in each epoch will not be generated.
