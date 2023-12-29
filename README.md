@@ -4,6 +4,7 @@
 The project is to use machine learning methods to categorize medical images. There are 2 datasets, PneumoniaMNIST and PathMNIST, that were used for training/validation/testing.
 
 The project is divided into 2 tasks:
+
  Task A: Binary classification --Random Forest  
 
  Task B: Multi-class classification --Conventional Neural Network(CNN)
@@ -15,10 +16,10 @@ The machine learning code and results are stored in folders 'A' and 'B' of the d
 The files structure is shown below：
 ## File Structure
 - 'A/':
- - 'A_ipynb.ipynb': the code for task A in jupyter notebook, used for view and generate the results directly
- - 'A_py.py': the code for task A in python, used to reproduce the results
- - 'Top 10 Feature Importance... .png': the result of top 10 feature importance for task A
- - 'Validation Accuracy.png': the result of validation accuracy for task A
+ -- 'A_ipynb.ipynb': the code for task A in jupyter notebook, used for view and generate the results directly
+ -- 'A_py.py': the code for task A in python, used to reproduce the results
+ -- 'Top 10 Feature Importance... .png': the result of top 10 feature importance for task A
+ -- 'Validation Accuracy.png': the result of validation accuracy for task A
 
 - 'B/': 
  - 'B_ipynb.ipynb': the code for task B in jupyter notebook, used for view and generate the results
