@@ -45,7 +45,8 @@ The machine learning code and results are stored in the 'A' and 'B' folders. The
    - `matplotlib==3.8.2`
 3. Run `main.py` to reproduce the results. By default, `A_py.py` and `B_py_pretrain.py` are executed. Uncomment code in `main.py` for full training for CNN model (It takes long time).
 4. In addition, run Jupyter Notebook files can directly to view the code and generate results.
-5. At the end of the run, the results are stored in the current folder
+5. During the run, the image will be displayed and will need to be closed before the next model can be run.
+6. At the end of the run, the results are stored in the current folder.
 
 
 
