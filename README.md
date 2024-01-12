@@ -43,7 +43,7 @@ The machine learning code and results are stored in the 'A' and 'B' folders. The
    - `tensorflow==2.15.0`
    - `numpy==1.26.2`
    - `matplotlib==3.8.2`
-3. Run `main.py` to reproduce the results. By default, `A_py.py` and `B_py_pretrain.py` are executed. Uncomment code in `main.py` for full training.
+3. Run `main.py` to reproduce the results. By default, `A_py.py` and `B_py_pretrain.py` are executed. Uncomment code in `main.py` for full training for CNN model (It takes long time).
 4. In addition, run Jupyter Notebook files can directly to view the code and generate results.
 
 
