@@ -65,6 +65,7 @@ def run_b_pretrained_task():
     plt.title('Confusion Matrix Heatmap')
     plt.ylabel('True Classes')
     plt.xlabel('Predicted Classes')
+    plt.savefig("Confusion Matrix Heatmap.png")
     plt.show()
    
 if __name__ == "__main__":
